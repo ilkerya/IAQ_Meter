@@ -1,0 +1,18 @@
+C:\Users\ANDREY\Documents\Visual Studio 2010\Projects\iAQmeter_TCPclient\iAQmeter_TCPclient\bin\Debug\iAQmeter_TCPclient.exe
+C:\Users\ANDREY\Documents\Visual Studio 2010\Projects\iAQmeter_TCPclient\iAQmeter_TCPclient\bin\Debug\iAQmeter_TCPclient.pdb
+C:\Users\ANDREY\Documents\Visual Studio 2010\Projects\iAQmeter_TCPclient\iAQmeter_TCPclient\obj\x86\Debug\iAQmeter_TCPclient.csprojResolveAssemblyReference.cache
+C:\Users\ANDREY\Documents\Visual Studio 2010\Projects\iAQmeter_TCPclient\iAQmeter_TCPclient\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\ANDREY\Documents\Visual Studio 2010\Projects\iAQmeter_TCPclient\iAQmeter_TCPclient\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\ANDREY\Documents\Visual Studio 2010\Projects\iAQmeter_TCPclient\iAQmeter_TCPclient\obj\x86\Debug\iAQmeter_TCPclient.csproj.GenerateResource.Cache
+C:\Users\ANDREY\Documents\Visual Studio 2010\Projects\iAQmeter_TCPclient\iAQmeter_TCPclient\obj\x86\Debug\iAQmeter_TCPclient.exe
+C:\Users\ANDREY\Documents\Visual Studio 2010\Projects\iAQmeter_TCPclient\iAQmeter_TCPclient\obj\x86\Debug\iAQmeter_TCPclient.pdb
+C:\Users\ANDREY\Documents\Visual Studio 2010\Projects\iAQmeter_TCPclient\iAQmeter_TCPclient\obj\x86\Debug\iAQmeter_TCPclient.g.resources
+C:\Projects\iAQ meter\iAQmeter_TCPclient\iAQmeter_TCPclient\obj\x86\Debug\iAQmeter_TCPclient.exe
+C:\Projects\iAQ meter\iAQmeter_TCPclient\iAQmeter_TCPclient\obj\x86\Debug\iAQmeter_TCPclient.pdb
+C:\Projects\iAQ meter\iAQmeter_TCPclient\iAQmeter_TCPclient\bin\Debug\iAQmeter_TCPclient.exe
+C:\Projects\iAQ meter\iAQmeter_TCPclient\iAQmeter_TCPclient\bin\Debug\iAQmeter_TCPclient.pdb
+C:\Projects\iAQ meter\iAQmeter_TCPclient\iAQmeter_TCPclient\obj\x86\Debug\iAQmeter_TCPclient.csprojResolveAssemblyReference.cache
+C:\Projects\iAQ meter\iAQmeter_TCPclient\iAQmeter_TCPclient\obj\x86\Debug\iAQmeter_TCPclient.g.resources
+C:\Projects\iAQ meter\iAQmeter_TCPclient\iAQmeter_TCPclient\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Projects\iAQ meter\iAQmeter_TCPclient\iAQmeter_TCPclient\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Projects\iAQ meter\iAQmeter_TCPclient\iAQmeter_TCPclient\obj\x86\Debug\iAQmeter_TCPclient.csproj.GenerateResource.Cache

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+  
+  <AzureIoTHub>
+    <Hub HubName="OpenAirCC3200" SharedKey="/qS35uzwW31Ziowuyci32mZ+04cdzPQafw2iKJJmL3s=" Device1Id="CC3200_1" Device2Id="0"/>
+  </AzureIoTHub>
+  
+   
+ </configuration>
